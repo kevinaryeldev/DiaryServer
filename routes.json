@@ -1,4 +1,5 @@
 {
   "user": 600,
-  "posts": 644
+  "posts": 644,
+  "/posts/:category": "/posts?category=:category"
 }
